@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    color: blueviolet;
+    align-items: center;
+}
+
+img{
+    width: 280px;
+    height: 200px;
+}
+
+#hobby{
+    border: 3px solid grey;
+    background-color: grey;
+    margin: 20px;
+    border: 2px solid black;
+    
+}
+
+.Bau img{
+    width: 280px;
+    height: 250px
+    
+}
+
+#Bau{
+    background-color: silver;
+    margin: 20px;
+    border: 2px solid grey;
+
+}
+
+.travel img{
+    width: 280px;
+    height: 250px;
+}
+
+#travel{
+    margin: 20px;
+    background-color: goldenrod;
+    border: 2px solid yellow;
+}
+
+.socelmedia img{
+
+    width: 30px;
+    height: 30px;
+
+}
+

@@ -1,0 +1,41 @@
+
+h1{
+    color: red;
+}
+
+.block1{
+    color: red; font-size: 20px;
+}
+
+.clock{
+    color: blue; font-style: italic;
+}
+
+.clock1{
+    font-size: 25px;
+}
+
+.block2{
+    color: green; font-size: 25px;
+}
+
+span{
+    color: red ; font-size: 20px;
+
+ }
+
+ .block3{
+    color: green; font-size: 25px;
+ }
+
+ .bl1{
+    color: blue; font-style: italic; font-weight: bold;
+ }
+
+ p{
+    font-size: 25px;
+ }
+
+ ul{
+    font-size: 20px; font-family: Arial, Helvetica, sans-serif; font-style: italic; color: lightslategrey;
+ }
